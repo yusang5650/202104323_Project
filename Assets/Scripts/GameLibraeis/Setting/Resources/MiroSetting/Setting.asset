@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4759ad909f3b4fdebe59e2b74a3ee105, type: 3}
+  m_Name: Setting
+  m_EditorClassIdentifier: 
+  MoveSpeed: 100
+  MoveRunningSpeed: 200
+  MoveCameraSpeed: 7.5
+  MouseSensitivity: 10
+  MouseYMin: -60
+  MouseYMax: 60
+  AiDetectAngle: 180
+  AiDetectDistance: 10
+  AiDetectRangeCount: 20
+  AiDetectBuffAngle: 360
+  AiDetectBuffDistance: 20
+  AiDetectBuffRangeCount: 300
